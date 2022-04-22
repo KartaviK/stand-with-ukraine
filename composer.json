@@ -1,0 +1,13 @@
+{
+    "name": "roman.varkuta/stand-with-ukraine",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "roman.varkuta",
+            "email": "roman.varkuta@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
